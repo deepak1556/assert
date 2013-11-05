@@ -1,0 +1,9 @@
+{
+  "name": "robo",
+  "license": "MIT",
+  "description": "simple assertion library",
+  "url": "https://github.com/deepak1556/assert",
+  "tags": ["utility", "cross"],
+  "contributors": ["robo"],
+  "version": "0.0.1"
+}
